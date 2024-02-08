@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.centered-button {
+    /* Add any button styles you need */
+}
+
+.titlebar {
+    background-color: orange;
+    text-align: center;
+    padding: 15vh;
+}
+
+body {
+    background-color: lightblue;
+}
