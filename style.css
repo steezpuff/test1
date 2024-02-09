@@ -18,3 +18,23 @@
 body {
     background-color: lightblue;
 }
+
+.sidebar {
+    background-color: #3ac7ff;
+    color: #fd0000;
+    width: 20vh;
+    padding: 5vh;
+    
+}
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+.sidebar ul li {
+    margin-bottom: 10px;
+}
+.content {
+    flex: 1;
+    padding: 50px;
+    text-align: center;
+}
